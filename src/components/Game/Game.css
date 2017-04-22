@@ -1,0 +1,13 @@
+.status {
+  margin-bottom: 10px;
+}
+
+.game {
+  display: inline-flex;
+  flex-direction: row;
+  padding: 20px;
+}
+
+.game-info {
+  margin-left: 20px;
+}
